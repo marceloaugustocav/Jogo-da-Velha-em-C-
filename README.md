@@ -1,5 +1,4 @@
-/*
-   Jogo da Velha em C#
+Jogo da Velha em C#
    
    Este é um jogo da velha simples implementado em C#. O jogo permite que dois jogadores façam suas jogadas em um tabuleiro 3x3.
    O jogador 'X' começa o jogo e os jogadores alternam suas jogadas até que um jogador vença ou ocorra um empate.
@@ -16,4 +15,4 @@
 
    Autor:Marcelo Augusto  
    GitHub: https://github.com/marceloaugustocav/
-*/
+
